@@ -2,6 +2,7 @@
 <h3 align="center">Computer Engineering Student in Data Science and Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emelis-ptr&label=Profile%20views&color=0e75b6&style=flat" alt="emelis-ptr" /> </p>
+
 - 💻 I'm a computer engineering student in Data Science and Engineering
 
 - 🌱 I’m currently learning **machine learning algorithms**
